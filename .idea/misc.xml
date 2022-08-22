@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/elizd/AndroidStudioProjects/memoApp/app/src/main/res/drawable-v24/bg_main_add_btn_et.xml" value="0.1195" />
+        <entry key="..\:/Users/elizd/AndroidStudioProjects/memoApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.189" />
+        <entry key="..\:/Users/elizd/AndroidStudioProjects/memoApp/app/src/main/res/drawable/bg_main_add_btn.xml" value="0.1" />
+        <entry key="..\:/Users/elizd/AndroidStudioProjects/memoApp/app/src/main/res/drawable/bg_write_et.xml" value="0.189" />
+        <entry key="..\:/Users/elizd/AndroidStudioProjects/memoApp/app/src/main/res/drawable/bg_write_submit_btn.xml" value="0.189" />
+        <entry key="..\:/Users/elizd/AndroidStudioProjects/memoApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.189" />
+        <entry key="..\:/Users/elizd/AndroidStudioProjects/memoApp/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/elizd/AndroidStudioProjects/memoApp/app/src/main/res/layout/activity_write.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/elizd/AndroidStudioProjects/memoApp/app/src/main/res/layout/item_memolist.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
